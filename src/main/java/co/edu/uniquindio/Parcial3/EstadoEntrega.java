@@ -1,0 +1,6 @@
+package co.edu.uniquindio.Parcial3;
+
+public enum EstadoEntrega {
+    ABIERTA,
+    ACEPTADA
+}
